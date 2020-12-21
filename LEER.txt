@@ -1,0 +1,7 @@
+
+Para crear el ambiente solo basta con levantar el backup en SQL Server Cine_feliz.bak que se encuentre en CineFliz1_Backend/database/*
+
+dentro del CineFliz1_Backend/src se encuentra el archivo database.js el cual contiene la informacion de la base de datos para que cambien
+el string de conexion del server, puerto, user y password.
+
+cualquier duda quedo a sus ordenes.
